@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rishipalsingh9
+- 👋 Hi, I’m Rishipal Singh. Bachelor in Commerce and PG Diploma in Management. 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Dev with Python & Javascript, Django framework
 - 💞️ I’m looking to collaborate on Model view and creation
